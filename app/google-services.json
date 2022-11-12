@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481246601172",
+    "project_id": "lugares-nuevo",
+    "storage_bucket": "lugares-nuevo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481246601172:android:d4b3d6e4af8c046338c041",
+        "android_client_info": {
+          "package_name": "com.sem08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481246601172-t35hsgcdp5lurod703s9fkdeb9kqq2ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRb4Ud0MrXGXrog_j7AAl-DWNmptsVIKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481246601172-t35hsgcdp5lurod703s9fkdeb9kqq2ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
