@@ -9,7 +9,11 @@
         android:id="@+id/nav_home"
         android:name="com.sem08.ui.home.HomeFragment"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_addLugarFragmentt"
+            app:destination="@id/addLugarFragmentt" />
+    </fragment>
 
     <fragment
         android:id="@+id/nav_gallery"
@@ -22,4 +26,13 @@
         android:name="com.sem08.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/addLugarFragmentt"
+        android:name="com.sem08.AddLugarFragmentt"
+        android:label="fragment_add_lugar_fragmentt"
+        tools:layout="@layout/fragment_add_lugar_fragmentt" >
+        <action
+            android:id="@+id/action_addLugarFragmentt_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
 </navigation>

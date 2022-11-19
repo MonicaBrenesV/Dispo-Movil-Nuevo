@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/layout/app_bar_principal.xml" value="0.1796875" />
         <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/layout/content_principal.xml" value="0.1796875" />
+        <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/layout/fragment_add_lugar_fragmentt.xml" value="0.1796875" />
+        <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
         <entry key="..\:/Users/moni/Documents/Movil_Nuevo/app/src/main/res/menu/principal.xml" value="0.1796875" />
       </map>
     </option>
